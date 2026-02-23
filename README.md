@@ -1,1 +1,1 @@
-# Inventory-Search-System
+# Binary Search algorithm
